@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kukapay-uniswap-trader-mcp-badge.png)](https://mseep.ai/app/kukapay-uniswap-trader-mcp)
+
 # Uniswap Trader MCP
 [![smithery badge](https://smithery.ai/badge/@kukapay/uniswap-trader-mcp)](https://smithery.ai/server/@kukapay/uniswap-trader-mcp)
 
