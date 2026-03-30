@@ -9,6 +9,10 @@ An MCP server for AI agents to automate token swaps on Uniswap DEX across multip
 - **Swap Suggestions**: Generate trading suggestions based on liquidity, fees, and optimal paths.
 - **Multi-Chain Support**: Compatible with Ethereum, Optimism, Polygon, Arbitrum, Celo, BNB Chain, Avalanche, and Base.
 
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/kukapay-uniswap-trader-mcp).
+
 ## Prerequisites
 - **Node.js**: Version 14.x or higher.
 - **npm**: For package management.
