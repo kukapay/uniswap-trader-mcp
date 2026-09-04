@@ -1,5 +1,5 @@
 # Uniswap Trader MCP
-[![smithery badge](https://smithery.ai/badge/@kukapay/uniswap-trader-mcp)](https://smithery.ai/server/@kukapay/uniswap-trader-mcp)
+[![LightNow capabilities](https://lightnow.ai/badge/io.github.kukapay/uniswap-trader-mcp)](https://lightnow.ai/servers/io.github.kukapay/uniswap-trader-mcp)
 
 An MCP server for AI agents to automate token swaps on Uniswap DEX across multiple blockchains.
 
